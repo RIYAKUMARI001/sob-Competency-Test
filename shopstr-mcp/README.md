@@ -1,4 +1,4 @@
-# Shopstr MCP Server (Read-Only)
+# Shopstr MCP Server
 
 This is my implementation of a Model Context Protocol (MCP) server for the Shopstr marketplace. The goal was to build a clean way for AI agents to browse listings and inspect sellers without having to deal with the complexities of Nostr signing or wallet management.
 
